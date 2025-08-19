@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+body {
+  background: radial-gradient(circle at top left, white, #fbddbfb2 70%);
+  font-family: 'Wix Madefor Text', sans-serif;
+}
